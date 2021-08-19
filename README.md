@@ -1,7 +1,7 @@
 <h1>Hey there 👋, I'm Alex</h1>
 <h3>I'm a Front-End Web Developer based out of 🌵empe, Arizona</h3>
 
-&nbsp;&nbsp;💼 Working full-time in the E-commerce industry
+&nbsp;&nbsp;💼 Working full-time in the Web Services industry
 
 <!-- &nbsp;&nbsp;👨‍💻 My portfolio is available at: [AlexSommers.com](AlexSommers.com) -->
 &nbsp;&nbsp;👨‍💻 Current side project: My portfolio site (almost finished)!
