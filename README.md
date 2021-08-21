@@ -6,7 +6,7 @@
 <!-- &nbsp;&nbsp;👨‍💻 My portfolio is available at: [AlexSommers.com](AlexSommers.com) -->
 &nbsp;&nbsp;👨‍💻 Current side project: My portfolio site (almost finished)!
 
-&nbsp;&nbsp;📫 You can reach me at: **asommers22@hotmail.com**
+&nbsp;&nbsp;📫 You can reach me at: **alex@alexsommers.com**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
