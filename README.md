@@ -4,7 +4,7 @@
 &nbsp;&nbsp;💼 Working full-time in the Web Services industry
 
 <!-- &nbsp;&nbsp;👨‍💻 My portfolio is available at: [AlexSommers.com](AlexSommers.com) -->
-&nbsp;&nbsp;👨‍💻 Current side project: My portfolio site (almost finished)!
+&nbsp;&nbsp;👨‍💻 Current side project: Taking a break before my next one 😴
 
 &nbsp;&nbsp;📫 You can reach me at: **alex@alexsommers.com**
 
