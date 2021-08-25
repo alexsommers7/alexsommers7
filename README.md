@@ -8,7 +8,7 @@
 
 &nbsp;&nbsp;📫 You can reach me at: **alex@alexsommers.com**
 
-&nbsp;&nbsp;🔗 **AlexSommers.com**
+&nbsp;&nbsp;🔗 **[AlexSommers.com](https://alexsommers.com/)**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
