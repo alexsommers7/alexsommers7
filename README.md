@@ -8,6 +8,8 @@
 
 &nbsp;&nbsp;📫 You can reach me at: **alex@alexsommers.com**
 
+&nbsp;&nbsp;🔗 **AlexSommers.com**
+
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alex-sommers-15561a10a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alex-sommers-15561a10a" height="30" width="40" /></a>
