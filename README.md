@@ -3,7 +3,7 @@
 
 &nbsp;&nbsp;💼 Working full-time in the Web Services industry
 
-&nbsp;&nbsp;👨‍💻 Current side project: Taking a break before my next one 😴
+&nbsp;&nbsp;👨‍💻 Current side project: Learning some Node.js!
 
 &nbsp;&nbsp;📫 You can reach me at: **alex@alexsommers.com**
 
