@@ -1,9 +1,9 @@
 <h1>Hey there 👋, I'm Alex</h1>
 <h3>I'm a Front-End Web Developer based out of 🌵empe, Arizona</h3>
 
-&nbsp;&nbsp;💼 Working full-time in the Web Services industry
+&nbsp;&nbsp;💼 Working full-time in the E-Commerce industry
 
-&nbsp;&nbsp;👨‍💻 Current side project: Learning the rest of the MEVN stack 🤓
+&nbsp;&nbsp;👨‍💻 Current side project: Building an API with Node, Express, and MongoDB 🤓
 
 &nbsp;&nbsp;📫 You can reach me at: **alex@alexsommers.com**
 
