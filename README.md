@@ -3,8 +3,6 @@
 
 &nbsp;&nbsp;💼 Working full-time in the E-Commerce industry
 
-&nbsp;&nbsp;👨‍💻 Current side project: Building an E-Commerce API with Node, Express, and MongoDB
-
 &nbsp;&nbsp;📫 **alex@alexsommers.com**
 
 &nbsp;&nbsp;🔗 **[AlexSommers.com](https://alexsommers.com/)**
