@@ -1,5 +1,5 @@
 <h1>Hey there, I'm Alex</h1>
-<h3>I'm a Front-End Web Developer based out of Tempe, Arizona</h3>
+<h3>I'm a Front-End Web Developer based out of Chandler, Arizona</h3>
 
 &nbsp;&nbsp;💼 Working full-time in the E-Commerce industry
 
