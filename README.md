@@ -1,8 +1,6 @@
 <h1>Hey there, I'm Alex</h1>
 <p>Full-Stack JavaScript Developer based out of Chandler, Arizona</p>
 
-&nbsp;&nbsp;💼 Working full-time in the E-Commerce industry
-
 &nbsp;&nbsp;📫 **alex@alexsommers.com**
 
 &nbsp;&nbsp;🔗 **[AlexSommers.com](https://alexsommers.com/)**
