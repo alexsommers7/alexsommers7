@@ -1,5 +1,5 @@
 <h1>Hey there, I'm Alex</h1>
-<h3>Full-Stack JavaScript Developer based out of Chandler, Arizona</h3>
+<p>Full-Stack JavaScript Developer based out of Chandler, Arizona</p>
 
 &nbsp;&nbsp;💼 Working full-time in the E-Commerce industry
 
